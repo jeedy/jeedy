@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	test index
+	// test index
 </body>
 </html>
